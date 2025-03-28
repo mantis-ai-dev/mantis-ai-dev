@@ -27,7 +27,7 @@
 <body>
     <p>Loading... please wait 😊</p>
     
-    <img id="scary-img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FScary666%2F&psig=AOvVaw2OR7obKAJWc3Zg3s3Y6kZu&ust=1743242871928000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiQ6fTDrIwDFQAAAAAdAAAAABAE"> <!-- Scary Image -->
+    <img id="scary-img" src="https://www.google.com/imgres?q=scary%20images&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71u2nbcRpyS._AC_UY1100_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FHalloween-Smiling-Demons-Horrible-Cosume%2Fdp%2FB09B34HYXM&docid=M3M6BnZxbdAT1M&tbnid=GpmWc_aeLFxXKM&vet=12ahUKEwit9NTxw6yMAxW-sVYBHY-MMCcQM3oFCIIBEAA..i&w=1100&h=1100&hcb=2&ved=2ahUKEwit9NTxw6yMAxW-sVYBHY-MMCcQM3oFCIIBEAA"> <!-- Scary Image -->
     <audio id="scream-sound" src="https://www.fesliyanstudios.com/play-mp3/6666" preload="auto"></audio> <!-- Loud Scream -->
 
     <script>
